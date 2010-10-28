@@ -1,0 +1,2 @@
+Adds a command for deleting buffers like :bd but does not close splits. Instead
+it tries to go to the next buffer first before deleting the buffer.
